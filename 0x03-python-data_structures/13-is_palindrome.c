@@ -1,7 +1,7 @@
 #include "lists.h"
 #include <stdlib.h>
 #include <stdio.h>
-/**
+/*
  * is_palindrome - function with one argument
  * @head: pointer to linked list
  *
